@@ -15,4 +15,9 @@ export const friendList: FriendList[] = [
     name: 'listder',
     link: 'https://blog.listder.xyz/',
   },
+  {
+    avatar: '/avatar/TheSw1m.webp',
+    name: 'TheSw1m',
+    link: 'https://blog.swimgit.top',
+  },
 ]
