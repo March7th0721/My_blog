@@ -22,11 +22,11 @@ import { friendList } from './friendList'
         </a>
 
         <a
-          href="/others/friends/kun-friend.html"
+          href="/others/friends/friend.html"
           class="friend"
           rel="noopener noreferrer"
         >
-          <img src="/avatar/kun.webp" alt="KUN's friends" />
+          <img src="/avatar/March7th.webp" alt="March7th's friends" />
 
           <span>Join Us</span>
         </a>
