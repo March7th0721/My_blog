@@ -6,6 +6,7 @@ import './reset.scss'
 import './light.scss'
 import './dark.scss'
 
+import Friends from '../components/friends/Friends.vue'
 import TouchFish from './components/TouchFish.vue'
 
 export default {
@@ -14,6 +15,7 @@ export default {
     return h(Theme.Layout, null, {
       // https://vitepress.dev/guide/extending-default-theme#layout-slots
       'doc-after': () => [h(TouchFish)],
+      'home-features-after': () => h(Friends),
     })
   },
 }
