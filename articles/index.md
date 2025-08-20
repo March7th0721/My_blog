@@ -8,11 +8,11 @@ hero:
   tagline: Meow~
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Articles
+      link: /Basic/咕咕咕.md
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: qwq
+      link: /Basic/qwq.md
     - theme: brand
       text: My First bio 
       link: /my_bio
