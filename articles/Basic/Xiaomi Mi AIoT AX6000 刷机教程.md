@@ -57,6 +57,10 @@
 
 2.1 查看闪存布局 & 当前启动分区
 
+::: tip 提示
+从 [此处]( https://openwrt.org/toh/hwdata/xiaomi/xiaomi_mi_aiot_ax6000 ) 获取固件
+:::
+
 ssh 路由器后，使用 `cat /proc/mtd` 查看路由器闪存布局，应该类似于下图：
 
 ![awa]( /AX6000/6.webp )
