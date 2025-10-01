@@ -108,6 +108,9 @@ ssh 路由器后，使用 `cat /proc/mtd` 查看路由器闪存布局，应该�
 3.1 配置镜像源（可选）
 
 登录路由器，执行 `cat /etc/apk/repositories.d/distfeeds.list` 查看目前官方源
+::: tip 提示
+WiFi 默认禁用，请确认网线连接状态 
+:::
 
 ![awa]( /AX6000/9.webp )
 
