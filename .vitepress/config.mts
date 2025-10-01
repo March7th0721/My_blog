@@ -14,7 +14,7 @@ export default defineConfig({
   lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/yuki.webp',
+    // logo: '/yuki.webp',
     
     sidebar: generateSidebar({
       // https://vitepress-sidebar.cdget.com/guide/getting-started
