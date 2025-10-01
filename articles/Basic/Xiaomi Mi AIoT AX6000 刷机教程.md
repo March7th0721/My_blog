@@ -135,7 +135,7 @@ WiFi 默认禁用，请确认网线连接状态
 <br><br>
 3.2 安装 Luci 面板
 
-执行 `apk add luci luci-i18n-base-zh-zn` 安装
+执行 `apk add luci luci-i18n-base-zh-cn` 安装
 
 然后执行 `/etc/init.d/uhttpd enable && /etc/init.d/uhttpd start` 启动 Luci 就好啦
 
