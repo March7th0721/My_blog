@@ -19,7 +19,7 @@ hero:
 
 features:
   - title: My Telegram Channel
-    details: 日常碎碎念：<a href="https://t.me/March7thChannel" target="_alt">@March7thChannel</a> 
+    details: 日常碎碎念：<a href="https://t.me/+pPz55jlnM9tkODc9" target="_alt">@March7thChannel</a> 
   - title: About Me
     details: 咕咕咕~
   #- title: Feature C
